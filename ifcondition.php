@@ -12,7 +12,7 @@
 	<td> Prelim </td>
 	<td> <input type="number" name="text1" required> </td>
 </tr>
-
+asdsadsadadadsa
 <tr>
 	<td> Midterm </td>
 	<td> <input type="text" name="text2" required> </td>	
